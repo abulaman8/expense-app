@@ -1,0 +1,5 @@
+env/
+*.txt
+*.xlsx
+*.json
+!requirements.txt
